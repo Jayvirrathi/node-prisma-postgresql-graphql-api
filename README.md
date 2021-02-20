@@ -8,9 +8,6 @@
 # install dependencies
 npm install
 
-# serve at http://localhost:3000/graphql
-
-npm start
 ```
 
 ## Prerequisites
